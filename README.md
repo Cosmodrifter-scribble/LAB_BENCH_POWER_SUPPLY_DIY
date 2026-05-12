@@ -17,6 +17,9 @@
 <img width="1364" height="607" alt="Screenshot 2026-05-12 104910" src="https://github.com/user-attachments/assets/bafd8128-272c-4cfc-8e1f-8281c83b378c" />
 
 ---
+## [onshape 3D model link](https://cad.onshape.com/documents/a05d97cf3b6a27ac1dd274a5/w/5154a7720d61dbd8b93c2f0a/e/3e5c84758c009854c38f61e3?renderMode=0&uiState=6a02bbd3910dfe467bc5bff9)
+
+---
 ## 💡 Why I Built This
 
 Every electronics hobbyist eventually gets tired of powering projects from phone chargers, cheap USB banks, and borrowed wall adapters. I wanted a **single unit** that could:
