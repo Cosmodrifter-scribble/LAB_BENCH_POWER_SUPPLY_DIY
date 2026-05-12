@@ -56,7 +56,14 @@ Commercial bench supplies with these specs cost ₹8,000–25,000. This build de
 
 ---
 
-## 📦 Components List
+# 🔧 Bill of Materials — DIY Lab Bench Power Supply
+> TRIDEV 36V 10A 360W PSU + XY6020L Variable Output + Fixed 12V / 5V / 3.3V Rails
+
+> 💱 Exchange rate: **1 USD = ₹95.25**
+
+---
+
+## 📦 Electronics Components
 
 | # | Component | Qty | Unit Price (₹) | Total (₹) | Total (USD) | Source | Link |
 |---|-----------|-----|----------------|-----------|-------------|--------|------|
@@ -85,13 +92,32 @@ Commercial bench supplies with these specs cost ₹8,000–25,000. This build de
 
 ---
 
-## 💰 Cost Summary
+## 🖨️ 3D Printing (Zbotic.in — PETG, 0.2 Standard Quality)
+
+> All parts printed via [Zbotic.in](https://zbotic.in) 3D print service. Prices include 18% GST.
+
+| # | File | Material | Infill | Total (₹) | Total (USD) |
+|---|------|----------|--------|-----------|-------------|
+| P1 | front(1).stl | PETG — Black | 20% | ₹268.37 | $2.82 |
+| P2 | handle.stl | PETG — Black | 20% | ₹87.19 | $0.92 |
+| P3 | fillers.stl | PETG — Blue | 30% | ₹60.38 | $0.63 |
+| P4 | back.stl | PETG — Black | 20% | ₹328.91 | $3.45 |
+| P5 | case.stl | PETG — Grey | 20% | ₹2,187.37 | $22.96 |
+| | **3D Printing Subtotal** | | | **₹2,932.22** | **$30.78** |
+
+> 🎉 Free shipping applied on 3D print order 
+
+---
+
+## 💰 Full Cost Summary
 
 | Category | Cost (₹) | Cost (USD) |
 |----------|----------|------------|
-| Components subtotal | ₹5,886 | $61.79 |
-| Shipping total | ₹475 | $4.99 |
-| **Grand Total** | **₹6,361** | **$66.78** |
+| Electronics components subtotal | ₹5,886 | $61.79 |
+| Electronics shipping | ₹475 | $4.99 |
+| 3D printing (incl. 18% GST) | ₹2,932 | $30.78 |
+| 3D printing shipping | ₹0 | $0.00 |
+| **Grand Total** | **₹9,293** | **$97.57** |
 
 ---
 
